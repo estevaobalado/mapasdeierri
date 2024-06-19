@@ -3,7 +3,7 @@
 
 const scriptsInEvents = {
 
-	async CóDigo_Event4_Act4(runtime, localVars)
+	async CóDigo_Event5_Act4(runtime, localVars)
 	{
 		
 	}

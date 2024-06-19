@@ -4245,7 +4245,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SetOpacity,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.Sprite.Acts.SetBoolInstanceVar,
-		C3.ScriptsInEvents.CóDigo_Event4_Act4,
+		C3.ScriptsInEvents.CóDigo_Event5_Act4,
 		C3.Plugins.Sprite.Exps.Opacity,
 		C3.Plugins.Mouse.Cnds.OnWheel,
 		C3.Plugins.System.Acts.SetVar,
@@ -4414,7 +4414,7 @@ self.C3_ExpressionFuncs = [
 		},
 		() => 0,
 		() => 1.5,
-		() => 3.5,
+		() => 6,
 		() => 2.5,
 		p => {
 			const n0 = p._GetNode(0);
